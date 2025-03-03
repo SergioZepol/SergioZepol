@@ -25,8 +25,4 @@ Soy un desarrollador con experiencia en la aplicación de metodologías ágiles 
 
 ---
 
-## 🎯 Intereses
-
-La tecnología ha influenciado mi vida, permitiéndome adaptarme continuamente en diversas áreas como videojuegos y medios audiovisuales. Me apasiona aprender, mejorar y desarrollar software que combine creatividad y tecnología. También disfruto del trabajo en equipo, los juegos de mesa y videojuegos que han marcado mi infancia.
-
----
+## 🏆 Puedes ver en los repositorios fijados mi experiencia y proyectos destacados! 🏆
